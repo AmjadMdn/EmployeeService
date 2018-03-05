@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Employee {
 	 
-	private String firstName;
+	private String  firstName;
 	private String lastName;
 	private Date dob;
 	private QUALIFICATION latestQualification;

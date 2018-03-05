@@ -6,7 +6,7 @@ import java.time.ZoneId;
 
 public class HireEmployeeService {
 
-	public boolean hireValidEmployee(Employee employee){
+	public boolean hireValidEmployee(Employee employee) {
 		if(employee.getFirstName() == null || employee.getLastName() == null) {
 			return false;
 		}

@@ -12,7 +12,7 @@ public class Employee{
 	public Employee(String firstName, String lastName, Date dob,
 			QUALIFICATION latestQualification) {
 		super();
-		this.firstName = firstName;
+		this.firstName =  firstName;
 		this.lastName = lastName;
 		this.dob = dob;
 		this.latestQualification = latestQualification;

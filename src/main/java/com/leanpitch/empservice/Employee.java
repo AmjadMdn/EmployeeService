@@ -36,7 +36,7 @@ public class Employee{
 		this.dob = dob;
 	}
 	public QUALIFICATION getLatestQualification() {
-		return latestQualification;
+		 return latestQualification;
 	}
 	public void setLatestQualification(QUALIFICATION latestQualification) {
 		this.latestQualification = latestQualification;

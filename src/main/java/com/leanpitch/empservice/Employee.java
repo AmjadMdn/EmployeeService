@@ -9,7 +9,7 @@ public class Employee{
 	private Date dob;
 	private QUALIFICATION latestQualification;
 	
-	public Employee(String firstName , String lastName, Date dob,
+	public Employee(String firstName, String lastName, Date dob,
 			QUALIFICATION latestQualification) {
 		super();
 		this.firstName = firstName;
